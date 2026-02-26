@@ -1,0 +1,13 @@
+{
+  "name": "poker-decision-engine",
+  "version": "1.0.0",
+  "description": "Poker action decision engine — recommends optimal actions given game state and equity",
+  "main": "index.js",
+  "keywords": ["poker", "decision-engine", "texas-holdem", "bot"],
+  "author": "jerroldneal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jerroldneal/poker-decision-engine.git"
+  }
+}
