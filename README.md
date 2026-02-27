@@ -1,5 +1,7 @@
 # poker-decision-engine
 
+> **Repo**: [`jerroldneal/poker-decision-engine`](https://github.com/jerroldneal/poker-decision-engine) · **Submodule of**: [`cnr-ws-server`](https://github.com/jerroldneal/cnr-ws-server) at `submodules/poker-decision-engine/`
+
 Poker action decision engine that recommends optimal actions given a game state and equity function. Protocol-agnostic — works with any game state source (protobuf, Cocos2d scene graph, or custom).
 
 ## Usage
